@@ -1,4 +1,4 @@
-# AutoHotKey Spam Scripts
+# AutoHotKey Scripts
 
 *Lookin' for somethin'? I got what you need!*
 
