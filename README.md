@@ -20,3 +20,4 @@ Scripts written in [AutoHotKey](https://www.autohotkey.com/) a language for auto
 - [Zoom Message Spam](https://github.com/syswraith/spam-ahk-scripts/blob/1e22ad0ca673452589bce3e547c28b86a2f3b1c0/message_spam_zoom.ahk)
 - [Zoom Call Spam](https://github.com/syswraith/spam-ahk-scripts/blob/1e22ad0ca673452589bce3e547c28b86a2f3b1c0/call_spam_zoom.ahk)
 - [Discord Message spam](https://github.com/syswraith/spam-ahk-scripts/blob/ccfec77656b9788e41d74d725d06c90410799fbd/message_spam_discord.ahk)
+- [Dank Memer AutoFarming](https://github.com/syswraith/ahk-scripts/blob/c94261bb7ea2f6ecb4dd8e5a4a422a6e1f72bbc1/Dank%20AutoFarm.ahk)
